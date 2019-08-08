@@ -1,0 +1,74 @@
+2019-08-08 14:37:30 INFO  PropertiesCache:21 - java.io.BufferedInputStream@56cbfb61
+2019-08-08 14:37:30 INFO  PropertiesCache:22 - Read all properties from file
+2019-08-08 14:37:30 INFO  ExtentManager:87 - Directory: D:\Gauri Work\HonestFoodCompanySeleniumProject-master\TestReport is created!
+2019-08-08 14:37:30 INFO  ExtentManager:73 - ExtentReport Path for WINDOWS: D:\Gauri Work\HonestFoodCompanySeleniumProject-master\TestReport
+
+2019-08-08 14:37:30 INFO  TestInitilizer:47 - :::::::::::::::::::: Launching webdriver ::::::::::::::::::::
+2019-08-08 14:37:30 INFO  TestInitilizer:63 -  =================================================== 
+2019-08-08 14:37:30 INFO  TestInitilizer:64 - Url is :: https://clubkitchen.at
+2019-08-08 14:37:30 INFO  TestInitilizer:65 -  =================================================== 
+2019-08-08 14:38:00 INFO  TestListener:33 - Test Suite started!
+2019-08-08 14:38:01 INFO  TestInitilizer:87 - Testcase name is :::::: addToCartFromMamacita
+2019-08-08 14:38:01 INFO  TestInitilizer:88 - addToCartFromMamacita Started ::::
+2019-08-08 14:38:01 INFO  TestListener:84 - addToCartFromMamacita started!
+2019-08-08 14:38:01 INFO  TestInitilizer:101 - Element is displayed Agree cookies button
+2019-08-08 14:38:13 INFO  TestInitilizer:51 - Exception occured while entering delivery addressorg.openqa.selenium.WebDriverException: chrome not reachable
+  (Session info: chrome=75.0.3770.142)
+  (Driver info: chromedriver=74.0.3729.6 (255758eccf3d244491b8a1317aa76e1ce10d57e9-refs/branch-heads/3729@{#29}),platform=Windows NT 10.0.17134 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 0 milliseconds
+Build info: version: '3.6.0', revision: '6fbf3ec767', time: '2017-09-27T15:28:36.4Z'
+System info: host: 'LAPTOP-54HITSDS', ip: '192.168.137.1', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_201'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities [{mobileEmulationEnabled=false, timeouts={implicit=0, pageLoad=300000, script=30000}, hasTouchScreen=false, platform=XP, acceptSslCerts=false, goog:chromeOptions={debuggerAddress=localhost:50763}, acceptInsecureCerts=false, webStorageEnabled=true, browserName=chrome, takesScreenshot=true, javascriptEnabled=true, platformName=XP, setWindowRect=true, unexpectedAlertBehaviour=ignore, applicationCacheEnabled=false, rotatable=false, networkConnectionEnabled=false, chrome={chromedriverVersion=74.0.3729.6 (255758eccf3d244491b8a1317aa76e1ce10d57e9-refs/branch-heads/3729@{#29}), userDataDir=C:\Users\Jarvis\AppData\Local\Temp\scoped_dir2316_10439}, takesHeapSnapshot=true, unhandledPromptBehavior=ignore, pageLoadStrategy=normal, strictFileInteractability=false, databaseEnabled=false, handlesAlerts=true, version=75.0.3770.142, browserConnectionEnabled=false, proxy=Proxy(), nativeEvents=true, locationContextEnabled=true, cssSelectorsEnabled=true}]
+Session ID: 2e2d45d2b61e319567e2cf2cab22aff9
+*** Element info: {Using=xpath, value=//input[@id='address-input']}
+2019-08-08 14:38:22 INFO  TestInitilizer:60 - Exception occured while clicking on To the menu search buttonorg.openqa.selenium.WebDriverException: chrome not reachable
+  (Session info: chrome=75.0.3770.142)
+  (Driver info: chromedriver=74.0.3729.6 (255758eccf3d244491b8a1317aa76e1ce10d57e9-refs/branch-heads/3729@{#29}),platform=Windows NT 10.0.17134 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 0 milliseconds
+Build info: version: '3.6.0', revision: '6fbf3ec767', time: '2017-09-27T15:28:36.4Z'
+System info: host: 'LAPTOP-54HITSDS', ip: '192.168.137.1', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_201'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities [{mobileEmulationEnabled=false, timeouts={implicit=0, pageLoad=300000, script=30000}, hasTouchScreen=false, platform=XP, acceptSslCerts=false, goog:chromeOptions={debuggerAddress=localhost:50763}, acceptInsecureCerts=false, webStorageEnabled=true, browserName=chrome, takesScreenshot=true, javascriptEnabled=true, platformName=XP, setWindowRect=true, unexpectedAlertBehaviour=ignore, applicationCacheEnabled=false, rotatable=false, networkConnectionEnabled=false, chrome={chromedriverVersion=74.0.3729.6 (255758eccf3d244491b8a1317aa76e1ce10d57e9-refs/branch-heads/3729@{#29}), userDataDir=C:\Users\Jarvis\AppData\Local\Temp\scoped_dir2316_10439}, takesHeapSnapshot=true, unhandledPromptBehavior=ignore, pageLoadStrategy=normal, strictFileInteractability=false, databaseEnabled=false, handlesAlerts=true, version=75.0.3770.142, browserConnectionEnabled=false, proxy=Proxy(), nativeEvents=true, locationContextEnabled=true, cssSelectorsEnabled=true}]
+Session ID: 2e2d45d2b61e319567e2cf2cab22aff9
+*** Element info: {Using=xpath, value=//input[@class='btn--honest blattgold--form-banner-submit']}
+2019-08-08 14:38:33 INFO  TestInitilizer:53 - Exception occured while clicking on menu buttonorg.openqa.selenium.WebDriverException: chrome not reachable
+  (Session info: chrome=75.0.3770.142)
+  (Driver info: chromedriver=74.0.3729.6 (255758eccf3d244491b8a1317aa76e1ce10d57e9-refs/branch-heads/3729@{#29}),platform=Windows NT 10.0.17134 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 0 milliseconds
+Build info: version: '3.6.0', revision: '6fbf3ec767', time: '2017-09-27T15:28:36.4Z'
+System info: host: 'LAPTOP-54HITSDS', ip: '192.168.137.1', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_201'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities [{mobileEmulationEnabled=false, timeouts={implicit=0, pageLoad=300000, script=30000}, hasTouchScreen=false, platform=XP, acceptSslCerts=false, goog:chromeOptions={debuggerAddress=localhost:50763}, acceptInsecureCerts=false, webStorageEnabled=true, browserName=chrome, takesScreenshot=true, javascriptEnabled=true, platformName=XP, setWindowRect=true, unexpectedAlertBehaviour=ignore, applicationCacheEnabled=false, rotatable=false, networkConnectionEnabled=false, chrome={chromedriverVersion=74.0.3729.6 (255758eccf3d244491b8a1317aa76e1ce10d57e9-refs/branch-heads/3729@{#29}), userDataDir=C:\Users\Jarvis\AppData\Local\Temp\scoped_dir2316_10439}, takesHeapSnapshot=true, unhandledPromptBehavior=ignore, pageLoadStrategy=normal, strictFileInteractability=false, databaseEnabled=false, handlesAlerts=true, version=75.0.3770.142, browserConnectionEnabled=false, proxy=Proxy(), nativeEvents=true, locationContextEnabled=true, cssSelectorsEnabled=true}]
+Session ID: 2e2d45d2b61e319567e2cf2cab22aff9
+*** Element info: {Using=xpath, value=//a[contains(@class,'burger-menu btn')]}
+2019-08-08 14:38:41 INFO  TestInitilizer:62 - Exception occured while clicking on mamacita logo buttonorg.openqa.selenium.WebDriverException: chrome not reachable
+  (Session info: chrome=75.0.3770.142)
+  (Driver info: chromedriver=74.0.3729.6 (255758eccf3d244491b8a1317aa76e1ce10d57e9-refs/branch-heads/3729@{#29}),platform=Windows NT 10.0.17134 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 0 milliseconds
+Build info: version: '3.6.0', revision: '6fbf3ec767', time: '2017-09-27T15:28:36.4Z'
+System info: host: 'LAPTOP-54HITSDS', ip: '192.168.137.1', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_201'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities [{mobileEmulationEnabled=false, timeouts={implicit=0, pageLoad=300000, script=30000}, hasTouchScreen=false, platform=XP, acceptSslCerts=false, goog:chromeOptions={debuggerAddress=localhost:50763}, acceptInsecureCerts=false, webStorageEnabled=true, browserName=chrome, takesScreenshot=true, javascriptEnabled=true, platformName=XP, setWindowRect=true, unexpectedAlertBehaviour=ignore, applicationCacheEnabled=false, rotatable=false, networkConnectionEnabled=false, chrome={chromedriverVersion=74.0.3729.6 (255758eccf3d244491b8a1317aa76e1ce10d57e9-refs/branch-heads/3729@{#29}), userDataDir=C:\Users\Jarvis\AppData\Local\Temp\scoped_dir2316_10439}, takesHeapSnapshot=true, unhandledPromptBehavior=ignore, pageLoadStrategy=normal, strictFileInteractability=false, databaseEnabled=false, handlesAlerts=true, version=75.0.3770.142, browserConnectionEnabled=false, proxy=Proxy(), nativeEvents=true, locationContextEnabled=true, cssSelectorsEnabled=true}]
+Session ID: 2e2d45d2b61e319567e2cf2cab22aff9
+*** Element info: {Using=xpath, value=//*[@title='Mamacita' and @class = 'navigation--link logo--link  mamacita']}
+2019-08-08 14:38:49 INFO  TestInitilizer:81 - Exception occured while adding productorg.openqa.selenium.WebDriverException: chrome not reachable
+  (Session info: chrome=75.0.3770.142)
+  (Driver info: chromedriver=74.0.3729.6 (255758eccf3d244491b8a1317aa76e1ce10d57e9-refs/branch-heads/3729@{#29}),platform=Windows NT 10.0.17134 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 0 milliseconds
+Build info: version: '3.6.0', revision: '6fbf3ec767', time: '2017-09-27T15:28:36.4Z'
+System info: host: 'LAPTOP-54HITSDS', ip: '192.168.137.1', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_201'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities [{mobileEmulationEnabled=false, timeouts={implicit=0, pageLoad=300000, script=30000}, hasTouchScreen=false, platform=XP, acceptSslCerts=false, goog:chromeOptions={debuggerAddress=localhost:50763}, acceptInsecureCerts=false, webStorageEnabled=true, browserName=chrome, takesScreenshot=true, javascriptEnabled=true, platformName=XP, setWindowRect=true, unexpectedAlertBehaviour=ignore, applicationCacheEnabled=false, rotatable=false, networkConnectionEnabled=false, chrome={chromedriverVersion=74.0.3729.6 (255758eccf3d244491b8a1317aa76e1ce10d57e9-refs/branch-heads/3729@{#29}), userDataDir=C:\Users\Jarvis\AppData\Local\Temp\scoped_dir2316_10439}, takesHeapSnapshot=true, unhandledPromptBehavior=ignore, pageLoadStrategy=normal, strictFileInteractability=false, databaseEnabled=false, handlesAlerts=true, version=75.0.3770.142, browserConnectionEnabled=false, proxy=Proxy(), nativeEvents=true, locationContextEnabled=true, cssSelectorsEnabled=true}]
+Session ID: 2e2d45d2b61e319567e2cf2cab22aff9
+*** Element info: {Using=xpath, value=//a[@class = 'product--title']}
+2019-08-08 14:38:57 INFO  TestInitilizer:91 - Exception occured while clicking on add to cart buttonorg.openqa.selenium.WebDriverException: chrome not reachable
+  (Session info: chrome=75.0.3770.142)
+  (Driver info: chromedriver=74.0.3729.6 (255758eccf3d244491b8a1317aa76e1ce10d57e9-refs/branch-heads/3729@{#29}),platform=Windows NT 10.0.17134 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 0 milliseconds
+Build info: version: '3.6.0', revision: '6fbf3ec767', time: '2017-09-27T15:28:36.4Z'
+System info: host: 'LAPTOP-54HITSDS', ip: '192.168.137.1', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_201'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities [{mobileEmulationEnabled=false, timeouts={implicit=0, pageLoad=300000, script=30000}, hasTouchScreen=false, platform=XP, acceptSslCerts=false, goog:chromeOptions={debuggerAddress=localhost:50763}, acceptInsecureCerts=false, webStorageEnabled=true, browserName=chrome, takesScreenshot=true, javascriptEnabled=true, platformName=XP, setWindowRect=true, unexpectedAlertBehaviour=ignore, applicationCacheEnabled=false, rotatable=false, networkConnectionEnabled=false, chrome={chromedriverVersion=74.0.3729.6 (255758eccf3d244491b8a1317aa76e1ce10d57e9-refs/branch-heads/3729@{#29}), userDataDir=C:\Users\Jarvis\AppData\Local\Temp\scoped_dir2316_10439}, takesHeapSnapshot=true, unhandledPromptBehavior=ignore, pageLoadStrategy=normal, strictFileInteractability=false, databaseEnabled=false, handlesAlerts=true, version=75.0.3770.142, browserConnectionEnabled=false, proxy=Proxy(), nativeEvents=true, locationContextEnabled=true, cssSelectorsEnabled=true}]
+Session ID: 2e2d45d2b61e319567e2cf2cab22aff9
+*** Element info: {Using=xpath, value=//button[@id='topup-modal--close']}
